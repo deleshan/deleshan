@@ -9,13 +9,13 @@
 
 ### 🚀 About Me
 
-I am an **Intern Software Engineer** and Information Technology undergraduate with a background in Business Administration[cite: 1]. I specialize in building, containerizing, and deploying scalable full-stack web applications and AI-enhanced microservices[cite: 1]. 
+I am an **Intern Software Engineer** and Information Technology undergraduate with a background in Business Administration[cite: 1]. I specialize in building, containerizing, and deploying scalable full-stack web applications and AI-enhanced microservices. 
 
 - 🎓 **Education:** 
-  - **Bachelor of Information Technology (BIT)** – University of Moratuwa *(CGPA: 3.33)*[cite: 1]
-  - **Bachelor of Business Administration (BBA)** – University of Peradeniya[cite: 1]
-- 💡 **Core Focus:** MERN Stack, Python (AI/ML Integration), REST APIs, Cloud & DevOps[cite: 1]
-- 📍 **Location:** Colombo, Sri Lanka[cite: 1]
+  - **Bachelor of Information Technology (BIT)** – University of Moratuwa *(CGPA: 3.33)*
+  - **Bachelor of Business Administration (BBA)** – University of Peradeniya
+- 💡 **Core Focus:** MERN Stack, Python (AI/ML Integration), REST APIs, Cloud & DevOps
+- 📍 **Location:** Colombo, Sri Lanka
 
 ---
 
@@ -69,26 +69,26 @@ I am an **Intern Software Engineer** and Information Technology undergraduate wi
 
 ### 🛠️ Featured Projects
 
-#### 🔹 [Neodemeter – Multi-Tenant AI-Enhanced Restaurant SaaS](https://github.com/deleshan/rms-restaurant-system.git)[cite: 1]
-> A multi-tenant SaaS application featuring real-time kitchen tracking, an automated financial engine, and integrated AI features[cite: 1].
+#### 🔹 [Neodemeter – Multi-Tenant AI-Enhanced Restaurant SaaS](https://github.com/deleshan/rms-restaurant-system.git)
+> A multi-tenant SaaS application featuring real-time kitchen tracking, an automated financial engine, and integrated AI features.
 
 - **Tech Stack:** React, Redux, Node.js, Express, MongoDB, Flask, Docker, AWS EC2, Socket.io, Google Dialogflow[cite: 1]
 - **Key Features:**
-  - Multi-app setup: Admin Dashboard, Kitchen Display System (KDS), and Customer QR Ordering[cite: 1].
-  - Financial module covering P&L, balance sheet, cash flow, and FIFO inventory costing[cite: 1].
-  - AI services for sentiment analysis (VADER/spaCy), customer segmentation (K-Means), and natural language order customization[cite: 1].
-  - Containerized with Docker Compose and deployed on AWS EC2 behind Nginx[cite: 1].
+  - Multi-app setup: Admin Dashboard, Kitchen Display System (KDS), and Customer QR Ordering.
+  - Financial module covering P&L, balance sheet, cash flow, and FIFO inventory costing.
+  - AI services for sentiment analysis (VADER/spaCy), customer segmentation (K-Means), and natural language order customization.
+  - Containerized with Docker Compose and deployed on AWS EC2 behind Nginx.
 
-#### 🔹 [MayoonCart – Multi-Vendor E-Commerce Platform](https://github.com/deleshan/MayoonCart.git)[cite: 1]
-> A multi-vendor e-commerce platform with store onboarding and secure payments[cite: 1].
+#### 🔹 [MayoonCart – Multi-Vendor E-Commerce Platform](https://github.com/deleshan/MayoonCart.git)
+> A multi-vendor e-commerce platform with store onboarding and secure payments.
 
-- **Tech Stack:** React.js, Node.js, Express, MongoDB, Stripe[cite: 1]
-- **Key Features:** Merchant registration/approval workflows, full product catalog management, and Stripe integration[cite: 1].
+- **Tech Stack:** React.js, Node.js, Express, MongoDB, Stripe
+- **Key Features:** Merchant registration/approval workflows, full product catalog management, and Stripe integration.
 
-#### 🔹 [Financial Report Application](https://github.com/deleshan/financialReportApp03.git)[cite: 1]
-> A desktop reporting app built for structured financial accounting and reporting[cite: 1].
+#### 🔹 [Financial Report Application](https://github.com/deleshan/financialReportApp03.git)
+> A desktop reporting app built for structured financial accounting and reporting.
 
-- **Tech Stack:** C# (.NET Framework), SQL, Object-Oriented Programming[cite: 1]
+- **Tech Stack:** C# (.NET Framework), SQL, Object-Oriented Programming
 
 ---
 
