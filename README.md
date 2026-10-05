@@ -51,7 +51,7 @@ I am an **Intern Software Engineer** and Information Technology undergraduate wi
 #### 🤖 AI / ML
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-ai" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dialogflow/dialogflow-original.svg" alt="dialogflow" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/dialogflow/dialogflow-original.svg](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dialogflow.svg)" alt="dialogflow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
 </p>
 
