@@ -72,7 +72,7 @@ I am an **Intern Software Engineer** and Information Technology undergraduate wi
 #### 🔹 [Neodemeter – Multi-Tenant AI-Enhanced Restaurant SaaS](https://github.com/deleshan/rms-restaurant-system.git)
 > A multi-tenant SaaS application featuring real-time kitchen tracking, an automated financial engine, and integrated AI features.
 
-- **Tech Stack:** React, Redux, Node.js, Express, MongoDB, Flask, Docker, AWS EC2, Socket.io, Google Dialogflow[cite: 1]
+- **Tech Stack:** React, Redux, Node.js, Express, MongoDB, Flask, Docker, AWS EC2, Socket.io, Google Dialogflow
 - **Key Features:**
   - Multi-app setup: Admin Dashboard, Kitchen Display System (KDS), and Customer QR Ordering.
   - Financial module covering P&L, balance sheet, cash flow, and FIFO inventory costing.
@@ -103,7 +103,7 @@ I am an **Intern Software Engineer** and Information Technology undergraduate wi
 
 ### 🌐 Natural Languages
 
-🗣️ **English** | **Tamil** | **Sinhala**[cite: 1]
+🗣️ **English** | **Tamil** | **Sinhala**
 
 ---
 
