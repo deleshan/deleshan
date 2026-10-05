@@ -1,4 +1,4 @@
-# Hi there, I'm Deleshan Rajendiran 👋[cite: 1]
+# Hi there, I'm Deleshan Rajendiran 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deleshan-rajendiran)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deleshan)
@@ -9,13 +9,13 @@
 
 ### 🚀 About Me
 
-I am an **Intern Software Engineer** and Information Technology undergraduate with a background in Business Administration[cite: 1]. I specialize in building, containerizing, and deploying scalable full-stack web applications and AI-enhanced microservices[cite: 1]. 
+I am an **Intern Software Engineer** and Information Technology undergraduate with a background in Business Administration[cite: 1]. I specialize in building, containerizing, and deploying scalable full-stack web applications and AI-enhanced microservices. 
 
 - 🎓 **Education:** 
-  - **Bachelor of Information Technology (BIT)** – University of Moratuwa *(CGPA: 3.33)*[cite: 1]
-  - **Bachelor of Business Administration (BBA)** – University of Peradeniya[cite: 1]
-- 💡 **Core Focus:** MERN Stack, Python (AI/ML Integration), REST APIs, Cloud & DevOps[cite: 1].
-- 📍 **Location:** Colombo, Sri Lanka[cite: 1]
+  - **Bachelor of Information Technology (BIT)** – University of Moratuwa *(CGPA: 3.33)*
+  - **Bachelor of Business Administration (BBA)** – University of Peradeniya
+- 💡 **Core Focus:** MERN Stack, Python (AI/ML Integration), REST APIs, Cloud & DevOps
+- 📍 **Location:** Colombo, Sri Lanka
 
 ---
 
@@ -40,28 +40,37 @@ I am an **Intern Software Engineer** and Information Technology undergraduate wi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
 ### 🛠️ Featured Projects
 
-#### 🔹 [Neodemeter – Multi-Tenant AI-Enhanced Restaurant SaaS](https://github.com/deleshan/rms-restaurant-system.git)[cite: 1]
-> A multi-tenant SaaS application featuring real-time kitchen tracking, an automated financial engine, and integrated AI features[cite: 1].
+#### 🔹 [Neodemeter – Multi-Tenant AI-Enhanced Restaurant SaaS](https://github.com/deleshan/rms-restaurant-system.git)
+> A multi-tenant SaaS application featuring real-time kitchen tracking, an automated financial engine, and integrated AI features.
 
-- **Tech Stack:** React, Redux, Node.js, Express, MongoDB, Flask, Docker, AWS EC2, Socket.io, Google Dialogflow[cite: 1]
+- **Tech Stack:** React, Redux, Node.js, Express, MongoDB, Flask, Docker, AWS EC2, Socket.io, Google Dialogflow
 - **Key Features:**
-  - Multi-app setup: Admin Dashboard, Kitchen Display System (KDS), and Customer QR Ordering[cite: 1].
-  - Financial module covering P&L, balance sheet, cash flow, and FIFO inventory costing[cite: 1].
-  - AI services for sentiment analysis (VADER/spaCy), customer segmentation (K-Means), and natural language order customization[cite: 1].
-  - Containerized with Docker Compose and deployed on AWS EC2 behind Nginx[cite: 1].
+  - Multi-app setup: Admin Dashboard, Kitchen Display System (KDS), and Customer QR Ordering.
+  - Financial module covering P&L, balance sheet, cash flow, and FIFO inventory costing.
+  - AI services for sentiment analysis (VADER/spaCy), customer segmentation (K-Means), and natural language order customization.
+  - Containerized with Docker Compose and deployed on AWS EC2 behind Nginx.
 
-#### 🔹 [MayoonCart – Multi-Vendor E-Commerce Platform](https://github.com/deleshan/MayoonCart.git)[cite: 1]
-> A multi-vendor e-commerce platform with store onboarding and secure payments[cite: 1].
+#### 🔹 [MayoonCart – Multi-Vendor E-Commerce Platform](https://github.com/deleshan/MayoonCart.git)
+> A multi-vendor e-commerce platform with store onboarding and secure payments.
 
 - **Tech Stack:** React.js, Node.js, Express, MongoDB, Stripe[cite: 1]
-- **Key Features:** Merchant registration/approval workflows, full product catalog management, and Stripe integration[cite: 1].
+- **Key Features:** Merchant registration/approval workflows, full product catalog management, and Stripe integration.
 
-#### 🔹 [Financial Report Application](https://github.com/deleshan/financialReportApp03.git)[cite: 1]
-> A desktop reporting app built for structured financial accounting and reporting[cite: 1].
+#### 🔹 [Financial Report Application](https://github.com/deleshan/financialReportApp03.git)
+> A desktop reporting app built for structured financial accounting and reporting.
 
-- **Tech Stack:** C# (.NET Framework), SQL, Object-Oriented Programming[cite: 1]
+- **Tech Stack:** C# (.NET Framework), SQL, Object-Oriented Programming
 
 ---
 
@@ -76,7 +85,7 @@ I am an **Intern Software Engineer** and Information Technology undergraduate wi
 
 ### 🌐 Natural Languages
 
-🗣️ **English** | **Tamil** | **Sinhala**[cite: 1]
+🗣️ **English** | **Tamil** | **Sinhala**
 
 ---
 
